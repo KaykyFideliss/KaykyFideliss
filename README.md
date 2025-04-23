@@ -19,15 +19,6 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
         src="https://img.shields.io/badge/@fidelizx.74-9b59b6?style=for-the-badge&logo=instagram&logoColor=white"
     />
 </a>
-<a href="https://github.com/kaykyfidelis/portfolio">
-    <img 
-        alt="Meu Repositório" 
-        title="Veja o repositório do meu portfólio!" 
-        src="https://img.shields.io/badge/Meu%20Repositório-007bff?style=for-the-badge&logo=github&logoColor=white"
-    />
-</a>
-
-
 </p>
 
 
