@@ -61,15 +61,6 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
 <p>
 <img 
   align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=KaykyFideliss&show_icons=true&theme=tokyonight&locale=pt-br&token=SEU_TOKEN_AQUI"
-/>
-
-
-<img 
-  align="left" 
   alt="Top Linguagens" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFideliss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
