@@ -20,6 +20,15 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
     />
 </a>
 </p>
+<p align="left">
+    <a href="https://instagram.com/fidelizx.74">
+    <img 
+        alt="linkedin" 
+        title="" 
+        src="https://img.shields.io/badge/@fidelizx.74-9b59b6?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
+</p>
 
 
 ---
