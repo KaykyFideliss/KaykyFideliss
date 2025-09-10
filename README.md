@@ -19,9 +19,7 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
         src="https://img.shields.io/badge/@fidelizx.74-9b59b6?style=for-the-badge&logo=instagram&logoColor=white"
     />
 </a>
-</p>
-<p align="left">
-    <a href="https://www.linkedin.com/in/kaykyfidelis" target="_blank">
+     <a href="https://www.linkedin.com/in/kaykyfidelis" target="_blank">
         <img 
             alt="linkedin" 
             title="LinkedIn" 
@@ -29,6 +27,7 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
         />
     </a>
 </p>
+
 
 
 
