@@ -6,6 +6,8 @@ Olá! Me chamo Kayky Fidelis, tenho 17 anos, estudo na FUNEC  Riacho e estou no 
 
 Estou dando meus primeiros passos no universo Front e Backend e pretendo me tornar um Fullstack, estudando tecnologias como HTML, CSS, JavaScript, C++, Python e muitas outras tecnologias. Pretendo continuar minha jornada na área de TI, seja na faculdade ou já entrando no mercado de trabalho.
 
+Meu portfólio : https://portifolio-kayky-fidelis.vercel.app
+
 ---
 
 
@@ -69,3 +71,21 @@ Estou dando meus primeiros passos no universo Front e Backend e pretendo me torn
 
 </p>
 
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+## 🔨 Trabalhos em andamento 
+<p>
+Acqualife App (cordova) :
+https://github.com/KaykyFideliss/Acqualife-app-android
+
+Acqualife website (react + Tailwind) : 
+https://github.com/KaykyFideliss/Website-Acqualife
+
+</p>
