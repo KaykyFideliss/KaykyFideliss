@@ -89,3 +89,11 @@ Acqualife website (react + Tailwind) :
 https://github.com/KaykyFideliss/Website-Acqualife
 
 </p>
+
+## ✅ Trabalhos finalizados recentemente
+
+Acqualife website : https://acqualife.vercel.app
+<br/>
+<br/>
+
+</p>
