@@ -75,11 +75,9 @@ Estou trilhando o caminho para me tornar **desenvolvedor Fullstack**, estudando 
 
 ### 🔨 Trabalhos em andamento 
 
-- **Acqualife App (Cordova):**  
-  [github.com/KaykyFideliss/Acqualife-app-android](https://github.com/KaykyFideliss/Acqualife-app-android)
-
-- **Acqualife Website (React + Tailwind):**  
-  [github.com/KaykyFideliss/Website-Acqualife](https://github.com/KaykyFideliss/Website-Acqualife)
+- **Healthy wallet:** <br>
+    https://github.com/KaykyFideliss/healthy-wallet-project
+  
 
 ---
 
