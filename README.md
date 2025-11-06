@@ -1,39 +1,43 @@
-# 👨‍💻 Kayky Fidelis
+<h2 align="center">Estudante de TI e futuro FrontEnd, Seja muito Bem-Vindo(a)👋​</h2>
 
-**`Estudante de Técnico em Informática`**
+###
 
-Olá! Me chamo **Kayky Fidelis**, tenho 17 anos e estudo na **FUNEC Riacho**.  
-Atualmente estou no último ano do curso **Técnico em Informática integrado ao Ensino Médio**.
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Kayky+Fidelis!;Tenho+18+anos!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
+</div>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 
-Sou apaixonado por tecnologia e desenvolvimento de software — sempre busco aprender mais sobre **programação, desenvolvimento web e novas ferramentas** do mundo tech.  
-Estou trilhando o caminho para me tornar **desenvolvedor Fullstack**, estudando tecnologias como **HTML, CSS, JavaScript, C++, Python** e outras linguagens.
+###
 
-📁 **Meu portfólio:** [https://portifolio-kayky-fidelis.vercel.app](https://portifolio-kayky-fidelis.vercel.app)
+<div align="center">
+  
+📁 Meu portfólio: https://portifolio-kayky-fidelis.vercel.app
 
----
+</div>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 
-### 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://instagram.com/fidelizx.74" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Me segue no Insta!" 
-      src="https://img.shields.io/badge/@fidelizx.74-9b59b6?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/kaykyfidelis" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-</p>
+<h3 align="center">📊 <b>Estatísticas do GitHub</b></h3>
 
----
+<div align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=KaykyFideliss&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false" 
+  height="140" 
+  alt="stats graph"  
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=KaykyFideliss&locale=pt-br&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" 
+  height="140" 
+  alt="languages graph"  
+/>
 
-### 💻 Tecnologias que estou aprendendo
+</div>
+
+
+###
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
+<h3><b> 💻 Minhas Stacks</b></h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -47,31 +51,36 @@ Estou trilhando o caminho para me tornar **desenvolvedor Fullstack**, estudando 
   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
-<br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 
----
+###
 
-### 📊 Estatísticas do GitHub
-
-<div align="center" >
+<div align="left">
+  <a href="https://www.instagram.com/fidelizx.74/" target="_blank">
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=KaykyFideliss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://img.shields.io/static/v1?message=@fidelizx.74&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="instagram logo" 
   />
+</a>
+<a href="mailto:kaykyfidelis@gmail.com" target="_blank">
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFideliss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="gmail logo" 
   />
+</a>
+<a href="https://www.linkedin.com/in/kaykyfidelis/" target="_blank">
+  <img 
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="linkedin logo" 
+  /> 
+</a>
+
 </div>
 
-<div align="center">
-  <img 
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=KaykyFideliss&theme=tokyonight"
-  />
-</div>
-
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 
 ### 🔨 Trabalhos em andamento 
 
@@ -88,15 +97,19 @@ Estou trilhando o caminho para me tornar **desenvolvedor Fullstack**, estudando 
 
 ---
 
-### 🧩 Curiosidades sobre mim
-
-- 🔭 Estou sempre tentando integrar **hardware e software** em projetos criativos.
-- 🌱 No momento, estou me aprofundando em **React**, **Node.js** e **APIs**.
-- ⚙️ Gosto de resolver problemas e automatizar tarefas.
-
----
-
 ### 🧠 Frase que me inspira
 
 > "A melhor maneira de prever o futuro é criá-lo."  
 > — *Peter Drucker*
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
+<br clear="both">
+
+<div  align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
+
+###
