@@ -20,6 +20,7 @@
 <h3 align="center">📊 <b>Estatísticas do GitHub</b></h3>
 
 <div align="center">
+ 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=KaykyFideliss&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false" 
   height="140" 
@@ -56,6 +57,7 @@
 ###
 
 <div align="left">
+   <h3><b> 📱 Contatos</b></h3>
   <a href="https://www.instagram.com/fidelizx.74/" target="_blank">
   <img 
     src="https://img.shields.io/static/v1?message=@fidelizx.74&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
