@@ -102,8 +102,8 @@
 ### 🧠 Frase que me inspira
 
 
-“Quando não se pode atacar o argumento, ataca-se o argumentador.”
-— Paul Valéry
+>“Quando não se pode atacar o argumento, ataca-se o argumentador.”
+>— Paul Valéry
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 <br clear="both">
 
