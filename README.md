@@ -1,118 +1,114 @@
-<h2 align="center">Estudante de TI e futuro FrontEnd, Seja muito Bem-Vindo(a)👋​</h2>
-
-###
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Kayky+Fidelis!;Tenho+18+anos!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
-</div>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
-
-###
-
-<div align="center">
-  
-📁 Meu portfólio: https://portifolio-kayky-fidelis.vercel.app
-
-</div>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
-
-
-<h3 align="center">📊 <b>Estatísticas do GitHub</b></h3>
-
-<div align="center">
- 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=KaykyFideliss&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false" 
-  height="140" 
-  alt="stats graph"  
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=KaykyFideliss&locale=pt-br&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" 
-  height="140" 
-  alt="languages graph"  
-/>
-
-</div>
-
-
-###
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
-<h3><b> 💻 Minhas Stacks</b></h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
-
-###
-
-<div align="left">
-   <h3><b> 📱 Contatos</b></h3>
-  <a href="https://www.instagram.com/fidelizx.74/" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=@fidelizx.74&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="instagram logo" 
-  />
-</a>
-<a href="mailto:kaykyfidelis@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="gmail logo" 
-  />
-</a>
-<a href="https://www.linkedin.com/in/kaykyfidelis/" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="linkedin logo" 
-  /> 
-</a>
-
-</div>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
-
-### 🔨 Trabalhos em andamento 
-
-- **Healthy wallet:** <br>
-    https://github.com/KaykyFideliss/healthy-wallet-project
-  
-
----
-
-### ✅ Trabalhos finalizados recentemente
-
-- **Acqualife Website (Deploy):**  
-  [https://acqualife.vercel.app](https://acqualife.vercel.app)
-
----
-
-### 🧠 Frase que me inspira
-
-
->“Quando não se pode atacar o argumento, ataca-se o argumentador.”
->— Paul Valéry
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 <br clear="both">
 
-<div  align="center">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
- </picture>
+<!-- GIF HEADER -->
+<div align="center">
+  <img width="100%" height="300px" 
+       src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 </div>
 
-###
+<!-- TITLE -->
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=rect&height=100&text=FRONTEND%20DEVELOPER&fontSize=75&fontColor=3D94FF&animation=fadeIn&color=0D1117"/>
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
+<!-- ABOUT -->
+<h2 align="justify">
+Olá! Transformo ideias em interfaces interativas, unindo design e funcionalidade para criar experiências digitais envolventes.
+Sou apaixonado por UI, animações e interações fluidas, com especial interesse em React, Tailwind e GSAP.
+Tenho foco em performance, microinterações e na construção de código limpo, organizado e eficiente.
+</h2>
+
+<br>
+
+<hr>
+
+<br>
+
+<!-- STACKS HEADER -->
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=rect&height=100&text=MINHAS%20STACKS&fontSize=60&fontColor=3D94FF&animation=fadeIn&color=0D1117"/>
+</div>
+
+<br>
+
+<!-- STACK ICONS -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70"/>
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
+<!-- PROJECTS HEADER -->
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PROJETOS%20RECENTES&fontSize=60&fontColor=3D94FF&animation=fadeIn&color=0D1117"/>
+</div>
+
+<br>
+
+<!-- PROJECT IMAGES -->
+<div align="center">
+  <a href="https://acqualife.vercel.app" target="_blank">
+    <img width="32%" src="https://res.cloudinary.com/de4ncki8u/image/upload/v1771861470/imagem_2026-02-23_124325307_nypaby.png"/>
+  </a>
+  <a href="https://kayky-fidelis-port-ssm1.vercel.app" target="_blank">
+    <img width="32%" src="https://res.cloudinary.com/de4ncki8u/image/upload/v1771861601/imagem_2026-02-23_124537013_hfjczv.png"/>
+  </a>
+  <a href="https://healthy-wallet.vercel.app" target="_blank">
+    <img width="32%" src="https://res.cloudinary.com/de4ncki8u/image/upload/v1771861373/imagem_2026-02-23_124148699_k75vqk.png"/>
+  </a>
+</div>
+
+<br>
+
+<h3 align="center" style="opacity: 0.6;">
+  CLICK NAS FOTOS PARA ACESSAR
+</h3>
+
+<br>
+
+<hr>
+
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=rect&height=100&text=CONTATO&fontSize=60&fontColor=3D94FF&animation=fadeIn&color=0D1117"/>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/kaykyfidelis/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="70" height="70" alt="linkedin logo"
+         style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://www.instagram.com/fidelizx.74/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="70" height="70" alt="instagram logo"
+         style="margin: 0 10px;" />
+  </a>
+
+  <a href="mailto:Kayky.fi@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="70" height="70" alt="gmail logo"
+         style="margin: 0 10px;" />
+  </a>
+</div>
