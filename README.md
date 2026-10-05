@@ -113,10 +113,6 @@ Instead of focusing only on making something work, I aim to understand how to ma
 
 Reliable · Maintainable · Scalable · Secure · Performant
 
-GitHub Activity
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true" height="165"/> </p>
-
 Connect With Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
